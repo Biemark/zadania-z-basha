@@ -1,2 +1,0 @@
-# Ściąga z GFM
-
