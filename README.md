@@ -2,6 +2,11 @@
 
 1\. Używając linii poleceń stwórz strukturę katalogów:
 ```sh
+
+mkdir temp
+
+cd temp
+
 mkdir{dom, nauka/{c, logo,pascal}, praca} -p
 
 ```
@@ -14,7 +19,7 @@ return 0;
  }
 ```
 
-
+op
 rozwiązania [Jacka](http://inf.ug.edu.pl/).
 
 Obrazek
